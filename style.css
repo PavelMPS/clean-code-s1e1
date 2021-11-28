@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .top-element { text-align: center;
+  .top-element { 
+    text-align: center;
   }
 }
 .centered-element {
